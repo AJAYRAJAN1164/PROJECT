@@ -1,0 +1,21 @@
+.registerclass{
+    background-color: white;
+    width: 400px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+}
+.registerbtn{
+    margin-bottom:10px;
+}
+
+.fontWhite
+{
+  color:white;
+}
+
+.thead
+{
+    background-color: cadetblue;
+    color: black;
+}

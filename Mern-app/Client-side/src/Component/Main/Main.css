@@ -1,0 +1,107 @@
+ .BackDivMember {
+    margin: 0;
+    background-image: url("../../assets/bg-green.jpg");
+    font-family: "Cardo", serif;
+    color: black;
+    font-weight: bold;
+    height:800px;
+  }
+  .BackDivAdmin {
+    margin: 0;
+    background-image: url("../../assets/Blue-bg.jpg");
+    background-repeat: repeat;
+    font-family: "Cardo", serif;
+    color: black;
+    font-weight: bold;
+    height:800px;
+  }
+  .BackDivSuperAdmin {
+    margin: 0;
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+    background-repeat: repeat;
+    font-family: "Cardo", serif;
+    color: black;
+    font-weight: bold;
+    height:1200px;
+  }
+  .orderform {
+    border-radius: 10px;
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg");
+    background-repeat: no-repeat, repeat;
+    width: 350px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  label {
+    margin: 20px;
+  }
+  .inputfield {
+    border-radius: 5px;
+    border: 1px solid silver;
+    width: 80%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+  }
+  
+
+  
+  .buttontype {
+    border-radius: 5px;
+    border: 1px solid silver;
+    margin-bottom: 15px;
+    padding: 5px;
+  }
+  .buttontype:hover {
+    background-color: cornsilk;
+  }
+  
+  .buttontype:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  
+  table {
+   
+    border: 1px solid black;
+  
+  
+    color: white;
+    width: 100%;
+  }
+  td,
+  th {
+    border: 1px solid #999;
+    padding: 0.5rem;
+  }
+  
+  
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+  }
+
+  .fontWhite
+  {
+    color:white;
+  }
+  .alignLeft
+  {
+float:left;
+
+  }
+
+  .hideData
+  {
+    display:none;
+  }
